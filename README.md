@@ -28,10 +28,11 @@ A simple, secure user authentication system built with pure PHP and MySQL.
 - **PDO** for database access
 
 ## Project Structure
-
-├── register.php     # Registration form + handler
-├── login.php        # Login form + handler
-├── dashboard.php    # Protected dashboard
-├── profile.php      # Protected profile page
-├── logout.php       # Destroys session
-└── README.md        # This file
+```text
+├── register.php       # Registration form + handler
+├── login.php          # Login form + handler
+├── dashboard.php      # Protected dashboard
+├── profile.php        # Protected profile page
+├── logout.php         # Destroys session
+└── README.md          # This file
+```
